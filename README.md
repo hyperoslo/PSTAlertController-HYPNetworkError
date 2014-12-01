@@ -2,7 +2,9 @@
 
 ## Usage
 
-To run the example project, clone the repo, and open the `.xcodeproj` from the Demo directory.
+```objc
++ (instancetype)presentNetworkErrorAlertWithError:(NSError *)error controller:(UIViewController *)controller;
+```
 
 ## Installation
 
