@@ -3,7 +3,7 @@ s.name             = "PSTAlertController-HYPNetworkError"
 s.version          = "0.1"
 s.summary          = "Adds a convenience method for presenting network alerts to PSTAlertController"
 s.description      = <<-DESC
-Adds a convenience method for presenting network alerts to PSTAlertController
+Adds a convenience method for presenting network alerts to PSTAlertController :)
 DESC
 s.homepage         = "https://github.com/hyperoslo/PSTAlertController-HYPNetworkError"
 s.license          = 'MIT'
