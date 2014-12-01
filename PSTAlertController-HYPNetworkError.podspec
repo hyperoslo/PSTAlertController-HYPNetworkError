@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "PSTAlertController-HYPNetworkError"
-s.version          = "0.1"
+s.version          = "0.2"
 s.summary          = "Adds a convenience method for presenting network alerts to PSTAlertController"
 s.description      = <<-DESC
 Adds a convenience method for presenting network alerts to PSTAlertController :)
