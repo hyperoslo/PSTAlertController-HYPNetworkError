@@ -4,7 +4,7 @@
 
 + (instancetype)presentNetworkErrorAlertWithError:(NSError *)error controller:(UIViewController *)controller
 {
-    [self presentNetworkErrorAlertWithTitle:NSLocalizedString(@"NetworkErrorTitle", nil) error:error controller:controller];
+    return [self presentNetworkErrorAlertWithTitle:NSLocalizedString(@"NetworkErrorTitle", nil) error:error controller:controller];
 }
 
 + (instancetype)presentNetworkErrorAlertWithTitle:(NSString *)title error:(NSError *)error controller:(UIViewController *)controller
