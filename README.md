@@ -4,6 +4,8 @@
 
 ```objc
 + (instancetype)presentNetworkErrorAlertWithError:(NSError *)error controller:(UIViewController *)controller;
+
++ (instancetype)presentNetworkErrorAlertWithTitle:(NSString *)title error:(NSError *)error controller:(UIViewController *)controller;
 ```
 
 ## Installation
